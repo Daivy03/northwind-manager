@@ -1,1 +1,1 @@
-# northwind-manager
+# northwind-db-manager
